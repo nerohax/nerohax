@@ -78,6 +78,6 @@ A highly motivated **Data Scientist** with a **B.Sc. in Mathematics** and a **Ma
 ---
 
 ## 📫 Get in Touch!  
-🔗 [LinkedIn](www.linkedin.com/in/hemant-sinsinwar/) | ✉️ Email: [sinsinwarhemant7@gmail.com]
+🔗LinkedIn: www.linkedin.com/in/hemant-sinsinwar | ✉️ Email: [sinsinwarhemant7@gmail.com]
 
 💡 Always open to collaborations and innovative AI/ML projects! 🚀  
