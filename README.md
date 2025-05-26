@@ -1,16 +1,28 @@
 # 🚀 Data Scientist | Machine Learning Enthusiast  
 
 ## 👋 About Me  
-A highly motivated **Data Scientist** with a **B.Sc. in Mathematics** and a **Master’s in Computer Applications**, blending strong analytical skills with expertise in programming and machine learning. Passionate about **solving complex problems using AI, deep learning, and statistical modeling** to drive data-driven decisions.  
+A highly motivated **Data Scientist** with a **B.Sc. in Mathematics** and a **Master’s in Computer Applications**, blending strong analytical skills with expertise in programming and machine learning. **Passionate** about solving complex problems through AI, deep learning, and statistical modeling to enable data-driven decisions.
 
 🔹 **Proficient in:** Python, SQL, TensorFlow, Scikit-learn, NLP, and Deep Learning.  
-🔹 **Experienced in:** Data analysis, predictive modeling, feature engineering, and AI-driven solutions.  
+🔹 **Experienced in:** Data analysis, predictive modeling, feature engineering, computer vision and AI-driven solutions.  
 🔹 **Passionate about:** Data visualization, automation, and deploying ML models for real-world applications.  
 
 ---
 
 ## 📌 Projects  
+### 🍌 Banana Pulp & Bruise Detection via WhatsApp (Mar – Apr 2025)  
+📌 **Situation:** Needed a fast, accessible tool to assess **banana ripeness and bruises**.  
+🎯 **Task:** Build **YOLO-based segmentation & detection models**, integrated with a **WhatsApp bot**.  
+⚙️ **Action:**  
+- **Pulp Segmentation:** Used **YOLOv8** to segment yellow and white pulp; computed pulp percentages.  
+- **Bruise Detection:** Trained **YOLOv11** to detect multiple small bruises on banana surfaces.  
+- **Integration:** Deployed with **Flask + Twilio**, generated **PDF reports (ReportLab)**, saved results locally.
+ 
+📊 **Result:** Achieved **mAP50-95 of 65%** for pulp segmentation and **66%** for bruise detection; enabled real-time banana quality assessment via WhatsApp.
+✅**Tools & Technologies:**
+ `YOLOv8`, `YOLOv11`, `OpenCV`, `Flask`, `Twilio WhatsApp API`, `ReportLab`, `Python`, `Segmentation`, `Object Detection`, `PDF Reporting`
 
+---
 ### 🖼️ Image Classification (Dec 2024 - Jan 2025)  
 📌 **Situation:** Needed a real-time image classification system for face recognition.  
 🎯 **Task:** Develop a **CNN-based model** for accurate classification.  
@@ -49,15 +61,16 @@ A highly motivated **Data Scientist** with a **B.Sc. in Mathematics** and a **Ma
 ⚙️ **Action:**  
 - **Data Preprocessing:** Handled missing values, categorical encoding, and feature scaling.  
 - **Feature Engineering:** Applied polynomial features, interaction terms, and feature selection.  
-- **Advanced Models:** Implemented **Gradient Boosting (XGBoost, LightGBM)** and **Lasso Regression** for better accuracy.  
-📊 **Result:** Achieved **RMSE of 12,000 USD** with **R² = 0.91**, ensuring high predictive performance.  
+- **Advanced Models:** Implemented **Gradient Boosting (XGBoost, LightGBM)** and **Lasso Regression** for better accuracy.
+
+📊 **Result:** Achieved **RMSE of 12,000 USD** with **R² = 0.91**, ensuring high predictive performance.
 
 ---
 
 ## 🛠 Skills & Technologies  
 
 ### 🔹 Programming Languages:  
-- Python, C/C++, HTML, CSS, JavaScript  
+- Python, C/C++, HTML, CSS, JavaScript, Dart 
 
 ### 🔹 Core Competencies:  
 - Python Fundamentals  
@@ -67,16 +80,21 @@ A highly motivated **Data Scientist** with a **B.Sc. in Mathematics** and a **Ma
 - Statistical Modeling  
 - Model Tuning & Optimization  
 - Hypothesis Testing  
-- Advanced Machine Learning  
+- Advanced Machine Learning
+- Computer Vision
 
 ### 🔹 Libraries & Frameworks:  
 - **Machine Learning:** Scikit-learn, XGBoost, LightGBM  
 - **Deep Learning:** TensorFlow, Keras  
 - **Data Analysis & Visualization:** Pandas, NumPy, Seaborn, Matplotlib, Plotly  
-- **Natural Language Processing:** NLTK, BeautifulSoup  
+- **Natural Language Processing:** NLTK, BeautifulSoup
+- **Object Detection:** YOLO, OpenCV, Pytorch
+- **Front-end Development:** Flutter 
 
+### 🔹 Tools:  
+- **Data Labelling and Annotaion:** Label Studio, Roboflow
+- **Experiment Tracking and MLOps:** ClearML
 ---
-
 ## 📫 Get in Touch!  
 🔗LinkedIn: www.linkedin.com/in/hemant-sinsinwar | ✉️ Email: [sinsinwarhemant7@gmail.com]
 
