@@ -10,6 +10,25 @@ A highly motivated **Data Scientist** with a **B.Sc. in Mathematics** and a **Ma
 ---
 
 ## 📌 Projects  
+### 🏗️ Door & Window Detection from Construction Blueprints (Jun – Jul 2025)
+  🔷 **Situation:** Manual detection of **doors and windows** in floor plans is labor-intensive and prone to errors, slowing down construction workflows such as **CAD parsing**, **3D modeling**, and **BIM integration**.
+
+  🎯 **Task:** Build an **automated deep learning system** that can accurately detect and localize **doors and windows** from blueprint images, enabling downstream use in smart construction pipelines.
+  
+  ⚙️ **Action**
+   - Trained a **YOLOv8 object detection** model on annotated construction blueprint datasets.
+   - Used tools like **Roboflow** and **Albumentations** for data annotation and augmentation.
+   - Built a Python-based inference pipeline to process blueprint images and return predictions with bounding boxes and confidence scores.
+   - Visualized results and exported output in both image and structured JSON formats for integration into CAD or BIM systems.
+
+   📊 **Result**
+   - Achieved **mAP50 of 85.2%** and **mAP50–95 of 68.4%** on validation data.
+   - Reduced manual annotation time by over 80% in real-world blueprint processing.
+   - Enabled accurate, scalable analysis of construction drawings with **~15ms/image** inference time on GPU.
+  
+  ✅ Tools & Technologies
+   - `YOLOv8`, `Python`, `OpenCV`, `Albumentations`, `Roboflow`,`Flask` or `Streamlit` 
+---
 ### 🍌 Banana Pulp & Bruise Detection via WhatsApp (Mar – Apr 2025)  
 📌 **Situation:** Needed a fast, accessible tool to assess **banana ripeness and bruises**.  
 🎯 **Task:** Build **YOLO-based segmentation & detection models**, integrated with a **WhatsApp bot**.  
@@ -19,6 +38,7 @@ A highly motivated **Data Scientist** with a **B.Sc. in Mathematics** and a **Ma
 - **Integration:** Deployed with **Flask + Twilio**, generated **PDF reports (ReportLab)**, saved results locally.
  
 📊 **Result:** Achieved **mAP50-95 of 65%** for pulp segmentation and **66%** for bruise detection; enabled real-time banana quality assessment via WhatsApp.
+
 ✅**Tools & Technologies:**
  `YOLOv8`, `YOLOv11`, `OpenCV`, `Flask`, `Twilio WhatsApp API`, `ReportLab`, `Python`, `Segmentation`, `Object Detection`, `PDF Reporting`
 
