@@ -10,7 +10,7 @@ A highly motivated **Data Scientist** with a **B.Sc. in Mathematics** and a **Ma
 ---
 
 ##  Projects  
-###  Door & Window Detection from Construction Blueprints (Jun – Jul 2025)
+###  Door & Window Detection from Construction Blueprints (Aug – Sep 2025)
    **Situation:** Manual detection of **doors and windows** in floor plans is labor-intensive and prone to errors, slowing down construction workflows such as **CAD parsing**, **3D modeling**, and **BIM integration**.
 
    **Task:** Build an **automated deep learning system** that can accurately detect and localize **doors and windows** from blueprint images, enabling downstream use in smart construction pipelines.
@@ -29,7 +29,7 @@ A highly motivated **Data Scientist** with a **B.Sc. in Mathematics** and a **Ma
    Tools & Technologies
    - `YOLOv8`, `Python`, `OpenCV`, `Albumentations`, `Roboflow`,`Flask` or `Streamlit` 
 ---
-###  Banana Pulp & Bruise Detection via WhatsApp (Mar – Apr 2025)  
+###  Banana Pulp & Bruise Detection via WhatsApp (May – June 2025)  
  **Situation:** Needed a fast, accessible tool to assess **banana ripeness and bruises**.  
  **Task:** Build **YOLO-based segmentation & detection models**, integrated with a **WhatsApp bot**.  
  **Action:**  
